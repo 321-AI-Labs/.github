@@ -1,6 +1,6 @@
 # 321 AI Labs
 
-321 AI Labs is the research arm of 321ai LLC, an on-prem AI deployment company in Melbourne, Florida. We study the AI systems we and others actually ship — how they fail, how to measure the failure, and what to do about it before it reaches a client.
+321 AI Labs is the research arm of 321ai LLC. We study the AI systems we and others actually ship and how they fail. 
 
 Our working rule: register the study before we run it, pin every artifact to a hash, and publish what we find. That includes the nulls. A result we can't defend to a skeptic doesn't leave the building as a claim, so we try to make sure it never has to.
 
